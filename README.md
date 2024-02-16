@@ -1,5 +1,10 @@
 # ECE 281 ICE 3: FullAdder with Top Level Design
 
+![sickwaveform](waveform.png)
+
+## DOCUMENTATION
+I used C/Mock's writeup to fix my testing.
+
 **Fork** this repo.
 
 [ICE 3 instructions](https://usafa-ece.github.io/ece281-book/ICE/ICE3.html)
